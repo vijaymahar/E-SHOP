@@ -1,0 +1,1573 @@
+{
+  "shoes1": [
+    {
+      "id": 1,
+      "image": "myPackages/Shoes/pair0.jpg",
+      "name": "pair 1",
+      "price": "1,499"
+    },
+    {
+      "id": 2,
+      "image": "myPackages/Shoes/pair1.jpg",
+      "name": "pair 2",
+      "price": "1,499"
+    },
+    {
+      "id": 3,
+      "image": "myPackages/Shoes/pair2.jpg",
+      "name": "pair 3",
+      "price": "1,499"
+    },
+    {
+      "id": 4,
+      "image": "myPackages/Shoes/pair3.jpg",
+      "name": "pair 4",
+      "price": "1,499"
+    },
+    {
+      "id": 5,
+      "image": "myPackages/Shoes/pair4.jpg",
+      "name": "pair 5",
+      "price": "1,499"
+    },
+    {
+      "id": 6,
+      "image": "myPackages/Shoes/pair5.jpg",
+      "name": "pair 6",
+      "price": "1,499"
+    },
+    {
+      "id": 7,
+      "image": "myPackages/Shoes/pair6.jpg",
+      "name": "pair 7",
+      "price": "1,499"
+    },
+    {
+      "id": 8,
+      "image": "myPackages/Shoes/pair7.jpg",
+      "name": "pair 8",
+      "price": "1,499"
+    },
+    {
+      "id": 9,
+      "image": "myPackages/Shoes/pair8.jpg",
+      "name": "pair 9",
+      "price": "1,499"
+    },
+    {
+      "id": 10,
+      "image": "myPackages/Shoes/pair10.jpg",
+      "name": "pair 10",
+      "price": "1,499"
+    },
+    {
+      "id": 11,
+      "image": "myPackages/Shoes/pair11.jpg",
+      "name": "pair 11",
+      "price": "1,499"
+    },
+    {
+      "id": 12,
+      "image": "myPackages/Shoes/pair12.jpg",
+      "name": "pair 12",
+      "price": "1,499"
+    },
+    {
+      "id": 13,
+      "image": "myPackages/Shoes/pair13.jpg",
+      "name": "pair 13",
+      "price": "1,499"
+    },
+    {
+      "id": 14,
+      "image": "myPackages/Shoes/pair14.jpg",
+      "name": "pair 14",
+      "price": "1,499"
+    },
+    {
+      "id": 15,
+      "image": "myPackages/Shoes/pair15.jpg",
+      "name": "pair 15",
+      "price": "1,499"
+    },
+    {
+      "id": 16,
+      "image": "myPackages/Shoes/pair16.jpg",
+      "name": "pair 16",
+      "price": "1,499"
+    },
+    {
+      "id": 17,
+      "image": "myPackages/Shoes/pair17.jpg",
+      "name": "pair 17",
+      "price": "1,499"
+    },
+    {
+      "id": 18,
+      "image": "myPackages/Shoes/pair18.jpg",
+      "name": "pair 18",
+      "price": "1,499"
+    },
+    {
+      "id": 19,
+      "image": "myPackages/Shoes/pair19.jpg",
+      "name": "pair 19",
+      "price": "1,499"
+    },
+    {
+      "id": 20,
+      "image": "myPackages/Shoes/pair20.jpg",
+      "name": "pair 20",
+      "price": "1,499"
+    }
+  ],
+  "shoes2": [
+    {
+      "id": 21,
+      "image": "myPackages/Shoes/pair21.jpg",
+      "name": "pair 21",
+      "price": "1,499"
+    },
+    {
+      "id": 22,
+      "image": "myPackages/Shoes/pair22.jpg",
+      "name": "pair 22",
+      "price": "1,499"
+    },
+    {
+      "id": 23,
+      "image": "myPackages/Shoes/pair23.jpg",
+      "name": "pair 23",
+      "price": "1,499"
+    },
+    {
+      "id": 24,
+      "image": "myPackages/Shoes/pair24.jpg",
+      "name": "pair 24",
+      "price": "1,499"
+    },
+    {
+      "id": 25,
+      "image": "myPackages/Shoes/pair25.jpg",
+      "name": "pair 25",
+      "price": "1,499"
+    },
+    {
+      "id": 26,
+      "image": "myPackages/Shoes/pair26.jpg",
+      "name": "pair 26",
+      "price": "1,499"
+    },
+    {
+      "id": 27,
+      "image": "myPackages/Shoes/pair27.jpg",
+      "name": "pair 27",
+      "price": "1,499"
+    },
+    {
+      "id": 28,
+      "image": "myPackages/Shoes/pair28.jpg",
+      "name": "pair 28",
+      "price": "1,499"
+    },
+    {
+      "id": 29,
+      "image": "myPackages/Shoes/pair29.jpg",
+      "name": "pair 29",
+      "price": "1,499"
+    },
+    {
+      "id": 30,
+      "image": "myPackages/Shoes/pair30.jpg",
+      "name": "pair 30",
+      "price": "1,499"
+    },
+    {
+      "id": 31,
+      "image": "myPackages/Shoes/pair31.jpg",
+      "name": "pair 31",
+      "price": "1,499"
+    },
+    {
+      "id": 32,
+      "image": "myPackages/Shoes/pair32.jpg",
+      "name": "pair 32",
+      "price": "1,499"
+    },
+    {
+      "id": 33,
+      "image": "myPackages/Shoes/pair33.jpg",
+      "name": "pair 33",
+      "price": "1,499"
+    },
+    {
+      "id": 34,
+      "image": "myPackages/Shoes/pair34.jpg",
+      "name": "pair 34",
+      "price": "1,499"
+    },
+    {
+      "id": 35,
+      "image": "myPackages/Shoes/pair35.jpg",
+      "name": "pair 35",
+      "price": "1,499"
+    },
+    {
+      "id": 33,
+      "image": "myPackages/Shoes/pair36.jpg",
+      "name": "pair 36",
+      "price": "1,499"
+    }
+  ],
+  "shoes3": [
+    {
+      "id": 36,
+      "image": "myPackages/Shoes/pair36.jpg",
+      "name": "pair 36",
+      "price": "1,499"
+    },
+    {
+      "id": 37,
+      "image": "myPackages/Shoes/pair37.jpg",
+      "name": "pair 37",
+      "price": "1,499"
+    },
+    {
+      "id": 38,
+      "image": "myPackages/Shoes/pair38.jpg",
+      "name": "pair 38",
+      "price": "1,499"
+    },
+    {
+      "id": 39,
+      "image": "myPackages/Shoes/pair39.jpg",
+      "name": "pair 39",
+      "price": "1,499"
+    },
+    {
+      "id": 40,
+      "image": "myPackages/Shoes/pair40.jpg",
+      "name": "pair 40",
+      "price": "1,499"
+    },
+    {
+      "id": 41,
+      "image": "myPackages/Shoes/pair41.jpg",
+      "name": "pair 41",
+      "price": "1,499"
+    },
+    {
+      "id": 42,
+      "image": "myPackages/Shoes/pair42.jpg",
+      "name": "pair 42",
+      "price": "1,499"
+    },
+    {
+      "id": 43,
+      "image": "myPackages/Shoes/pair43.jpg",
+      "name": "pair 43",
+      "price": "1,499"
+    },
+    {
+      "id": 44,
+      "image": "myPackages/Shoes/pair44.jpg",
+      "name": "pair 44",
+      "price": "1,499"
+    },
+    {
+      "id": 45,
+      "image": "myPackages/Shoes/pair45.jpg",
+      "name": "pair 45",
+      "price": "1,499"
+    },
+    {
+      "id": 46,
+      "image": "myPackages/Shoes/pair46.jpg",
+      "name": "pair 46",
+      "price": "1,499"
+    },
+    {
+      "id": 47,
+      "image": "myPackages/Shoes/pair47.jpg",
+      "name": "pair 47",
+      "price": "1,499"
+    },
+    {
+      "id": 48,
+      "image": "myPackages/Shoes/pair48.jpg",
+      "name": "pair 48",
+      "price": "1,499"
+    },
+    {
+      "id": 49,
+      "image": "myPackages/Shoes/pair49.jpg",
+      "name": "pair 49",
+      "price": "1,499"
+    },
+    {
+      "id": 50,
+      "image": "myPackages/Shoes/pair50.jpg",
+      "name": "pair 50",
+      "price": "1,499"
+    },
+    {
+      "id": 51,
+      "image": "myPackages/Shoes/pair51.jpg",
+      "name": "pair 51",
+      "price": "1,499"
+    },
+    {
+      "id": 52,
+      "image": "myPackages/Shoes/pair52.jpg",
+      "name": "pair 52",
+      "price": "1,499"
+    }
+  ],
+  "hoodies": [
+    {
+      "id": 1,
+      "image": "myPackages/Hoodies/h1.jpg",
+      "name": "pair 1",
+      "price": "499"
+    },
+    {
+      "id": 2,
+      "image": "myPackages/Hoodies/h2.jpg",
+      "name": "pair 2",
+      "price": "499"
+    },
+    {
+      "id": 3,
+      "image": "myPackages/Hoodies/h3.jpg",
+      "name": "pair 3",
+      "price": "499"
+    },
+    {
+      "id": 4,
+      "image": "myPackages/Hoodies/h4.jpg",
+      "name": "pair 4",
+      "price": "499"
+    },
+    {
+      "id": 5,
+      "image": "myPackages/Hoodies/h5.jpg",
+      "name": "pair 5",
+      "price": "499"
+    },
+    {
+      "id": 6,
+      "image": "myPackages/Hoodies/h6.jpg",
+      "name": "pair 6",
+      "price": "499"
+    },
+    {
+      "id": 7,
+      "image": "myPackages/Hoodies/h7.jpg",
+      "name": "pair 7",
+      "price": "499"
+    },
+    {
+      "id": 8,
+      "image": "myPackages/Hoodies/h8.jpg",
+      "name": "pair 8",
+      "price": "499"
+    },
+    {
+      "id": 9,
+      "image": "myPackages/Hoodies/h9.jpg",
+      "name": "pair 9",
+      "price": "499"
+    },
+    {
+      "id": 10,
+      "image": "myPackages/Hoodies/h10.jpg",
+      "name": "pair 10",
+      "price": "499"
+    },
+    {
+      "id": 11,
+      "image": "myPackages/Hoodies/h11.jpg",
+      "name": "pair 11",
+      "price": "499"
+    },
+    {
+      "id": 12,
+      "image": "myPackages/Hoodies/h12.jpg",
+      "name": "pair 12",
+      "price": "499"
+    },
+    {
+      "id": 13,
+      "image": "myPackages/Hoodies/h13.jpg",
+      "name": "pair 13",
+      "price": "499"
+    },
+    {
+      "id": 14,
+      "image": "myPackages/Hoodies/h14.jpg",
+      "name": "pair 14",
+      "price": "499"
+    },
+    {
+      "id": 15,
+      "image": "myPackages/Hoodies/h15.jpg",
+      "name": "pair 15",
+      "price": "499"
+    },
+    {
+      "id": 16,
+      "image": "myPackages/Hoodies/h16.jpg",
+      "name": "pair 16",
+      "price": "499"
+    },
+    {
+      "id": 17,
+      "image": "myPackages/Hoodies/h17.jpg",
+      "name": "pair 17",
+      "price": "499"
+    },
+    {
+      "id": 18,
+      "image": "myPackages/Hoodies/h18.jpg",
+      "name": "pair 18",
+      "price": "499"
+    },
+    {
+      "id": 19,
+      "image": "myPackages/Hoodies/h19.jpg",
+      "name": "pair 19",
+      "price": "499"
+    },
+    {
+      "id": 20,
+      "image": "myPackages/Hoodies/h20.jpg",
+      "name": "pair 20",
+      "price": "499"
+    },
+    {
+      "id": 21,
+      "image": "myPackages/Hoodies/h21.jpg",
+      "name": "pair 21",
+      "price": "499"
+    },
+    {
+      "id": 22,
+      "image": "myPackages/Hoodies/h22.jpg",
+      "name": "pair 22",
+      "price": "499"
+    },
+    {
+      "id": 23,
+      "image": "myPackages/Hoodies/h23.jpg",
+      "name": "pair 23",
+      "price": "499"
+    },
+    {
+      "id": 24,
+      "image": "myPackages/Hoodies/h24.jpg",
+      "name": "pair 24",
+      "price": "499"
+    },
+    {
+      "id": 25,
+      "image": "myPackages/Hoodies/h25.jpg",
+      "name": "pair 25",
+      "price": "499"
+    },
+    {
+      "id": 26,
+      "image": "myPackages/Hoodies/h26.jpg",
+      "name": "pair 26",
+      "price": "499"
+    },
+    {
+      "id": 27,
+      "image": "myPackages/Hoodies/h27.jpg",
+      "name": "pair 27",
+      "price": "499"
+    },
+    {
+      "id": 28,
+      "image": "myPackages/Hoodies/h28.jpg",
+      "name": "pair 28",
+      "price": "499"
+    },
+    {
+      "id": 29,
+      "image": "myPackages/Hoodies/h29.jpg",
+      "name": "pair 29",
+      "price": "499"
+    },
+    {
+      "id": 30,
+      "image": "myPackages/Hoodies/h30.jpg",
+      "name": "pair 30",
+      "price": "499"
+    },
+    {
+      "id": 31,
+      "image": "myPackages/Hoodies/h31.jpg",
+      "name": "pair 31",
+      "price": "499"
+    },
+    {
+      "id": 32,
+      "image": "myPackages/Hoodies/h32.jpg",
+      "name": "pair 32",
+      "price": "499"
+    },
+    {
+      "id": 33,
+      "image": "myPackages/Hoodies/h33.jpg",
+      "name": "pair 33",
+      "price": "499"
+    },
+    {
+      "id": 34,
+      "image": "myPackages/Hoodies/h34.jpg",
+      "name": "pair 34",
+      "price": "499"
+    },
+    {
+      "id": 35,
+      "image": "myPackages/Hoodies/h35.jpg",
+      "name": "pair 35",
+      "price": "499"
+    },
+    {
+      "id": 36,
+      "image": "myPackages/Hoodies/h36.jpg",
+      "name": "pair 36",
+      "price": "499"
+    },
+    {
+      "id": 37,
+      "image": "myPackages/Hoodies/h37.jpg",
+      "name": "pair 37",
+      "price": "499"
+    },
+    {
+      "id": 38,
+      "image": "myPackages/Hoodies/h38.jpg",
+      "name": "pair 38",
+      "price": "499"
+    },
+    {
+      "id": 39,
+      "image": "myPackages/Hoodies/h39.jpg",
+      "name": "pair 39",
+      "price": "499"
+    },
+    {
+      "id": 40,
+      "image": "myPackages/Hoodies/h40.jpg",
+      "name": "pair 40",
+      "price": "499"
+    },
+    {
+      "id": 41,
+      "image": "myPackages/Hoodies/h41.jpg",
+      "name": "pair 41",
+      "price": "499"
+    },
+    {
+      "id": 42,
+      "image": "myPackages/Hoodies/h42.jpg",
+      "name": "pair 42",
+      "price": "499"
+    },
+    {
+      "id": 43,
+      "image": "myPackages/Hoodies/h43.jpg",
+      "name": "pair 43",
+      "price": "499"
+    },
+    {
+      "id": 44,
+      "image": "myPackages/Hoodies/h44.jpg",
+      "name": "pair 44",
+      "price": "499"
+    },
+    {
+      "id": 45,
+      "image": "myPackages/Hoodies/h45.jpg",
+      "name": "pair 45",
+      "price": "499"
+    },
+    {
+      "id": 46,
+      "image": "myPackages/Hoodies/h46.jpg",
+      "name": "pair 46",
+      "price": "499"
+    },
+    {
+      "id": 47,
+      "image": "myPackages/Hoodies/h47.jpg",
+      "name": "pair 47",
+      "price": "499"
+    },
+    {
+      "id": 48,
+      "image": "myPackages/Hoodies/h48.jpg",
+      "name": "pair 48",
+      "price": "499"
+    },
+    {
+      "id": 49,
+      "image": "myPackages/Hoodies/h49.jpg",
+      "name": "pair 49",
+      "price": "499"
+    },
+    {
+      "id": 50,
+      "image": "myPackages/Hoodies/h50.jpg",
+      "name": "pair 50",
+      "price": "499"
+    },
+    {
+      "id": 51,
+      "image": "myPackages/Hoodies/h51.jpg",
+      "name": "pair 51",
+      "price": "499"
+    },
+    {
+      "id": 52,
+      "image": "myPackages/Hoodies/h52.jpg",
+      "name": "pair 52",
+      "price": "499"
+    }
+  ],
+  "watches1": [
+    {
+      "id": 1,
+      "image": "myPackages/Watches/w42.jpg",
+      "name": "model 1",
+      "price": "4,999"
+    },
+    {
+      "id": 2,
+      "image": "myPackages/Watches/w2.jpg",
+      "name": "model 2",
+      "price": "4,999"
+    },
+    {
+      "id": 3,
+      "image": "myPackages/Watches/w3.jpg",
+      "name": "model 3",
+      "price": "4,999"
+    },
+    {
+      "id": 4,
+      "image": "myPackages/Watches/w4.jpg",
+      "name": "model 4",
+      "price": "4,999"
+    },
+    {
+      "id": 5,
+      "image": "myPackages/Watches/w5.jpg",
+      "name": "model 5",
+      "price": "4,999"
+    },
+    {
+      "id": 6,
+      "image": "myPackages/Watches/w6.jpg",
+      "name": "model 6",
+      "price": "4,999"
+    },
+    {
+      "id": 7,
+      "image": "myPackages/Watches/w7.jpg",
+      "name": "model 7",
+      "price": "4,999"
+    },
+    {
+      "id": 8,
+      "image": "myPackages/Watches/w8.jpg",
+      "name": "model 8",
+      "price": "4,999"
+    },
+    {
+      "id": 9,
+      "image": "myPackages/Watches/w9.jpg",
+      "name": "model 9",
+      "price": "4,999"
+    },
+    {
+      "id": 10,
+      "image": "myPackages/Watches/w10.jpg",
+      "name": "model 10",
+      "price": "4,999"
+    },
+    {
+      "id": 11,
+      "image": "myPackages/Watches/w11.jpg",
+      "name": "model 11",
+      "price": "4,999"
+    },
+    {
+      "id": 12,
+      "image": "myPackages/Watches/w12.jpg",
+      "name": "model 12",
+      "price": "4,999"
+    },
+    {
+      "id": 13,
+      "image": "myPackages/Watches/w13.jpg",
+      "name": "model 13",
+      "price": "4,999"
+    },
+    {
+      "id": 14,
+      "image": "myPackages/Watches/w14.jpg",
+      "name": "model 14",
+      "price": "4,999"
+    },
+    {
+      "id": 15,
+      "image": "myPackages/Watches/w15.jpg",
+      "name": "model 15",
+      "price": "4,999"
+    },
+    {
+      "id": 16,
+      "image": "myPackages/Watches/w16.jpg",
+      "name": "model 16",
+      "price": "4,999"
+    }
+  ],
+  "watches2": [
+    {
+      "id": 17,
+      "image": "myPackages/Watches/w17.jpg",
+      "name": "model 17",
+      "price": "4,999"
+    },
+    {
+      "id": 18,
+      "image": "myPackages/Watches/w18.jpg",
+      "name": "model 18",
+      "price": "4,999"
+    },
+    {
+      "id": 19,
+      "image": "myPackages/Watches/w19.jpg",
+      "name": "model 19",
+      "price": "4,999"
+    },
+    {
+      "id": 20,
+      "image": "myPackages/Watches/w20.jpg",
+      "name": "model 20",
+      "price": "4,999"
+    },
+    {
+      "id": 21,
+      "image": "myPackages/Watches/w21.jpg",
+      "name": "model 21",
+      "price": "4,999"
+    },
+    {
+      "id": 22,
+      "image": "myPackages/Watches/w22.jpg",
+      "name": "model 22",
+      "price": "4,999"
+    },
+    {
+      "id": 23,
+      "image": "myPackages/Watches/w23.jpg",
+      "name": "model 23",
+      "price": "4,999"
+    },
+    {
+      "id": 24,
+      "image": "myPackages/Watches/w24.jpg",
+      "name": "model 24",
+      "price": "4,999"
+    },
+    {
+      "id": 25,
+      "image": "myPackages/Watches/w25.jpg",
+      "name": "model 25",
+      "price": "4,999"
+    },
+    {
+      "id": 26,
+      "image": "myPackages/Watches/w26.jpg",
+      "name": "model 26",
+      "price": "4,999"
+    },
+    {
+      "id": 27,
+      "image": "myPackages/Watches/w27.jpg",
+      "name": "model 27",
+      "price": "4,999"
+    },
+    {
+      "id": 28,
+      "image": "myPackages/Watches/w28.jpg",
+      "name": "model 28",
+      "price": "4,999"
+    },
+    {
+      "id": 29,
+      "image": "myPackages/Watches/w29.jpg",
+      "name": "model 29",
+      "price": "4,999"
+    },
+    {
+      "id": 30,
+      "image": "myPackages/Watches/w30.jpg",
+      "name": "model 30",
+      "price": "4,999"
+    },
+    {
+      "id": 31,
+      "image": "myPackages/Watches/w31.jpg",
+      "name": "model 31",
+      "price": "4,999"
+    },
+    {
+      "id": 33,
+      "image": "myPackages/Watches/w33.jpg",
+      "name": "model 33",
+      "price": "4,999"
+    },
+    {
+      "id": 34,
+      "image": "myPackages/Watches/w34.jpg",
+      "name": "model 34",
+      "price": "4,999"
+    },
+    {
+      "id": 35,
+      "image": "myPackages/Watches/w35.jpg",
+      "name": "model 35",
+      "price": "4,999"
+    },
+    {
+      "id": 36,
+      "image": "myPackages/Watches/w36.jpg",
+      "name": "model 36",
+      "price": "4,999"
+    },
+    {
+      "id": 37,
+      "image": "myPackages/Watches/w37.jpg",
+      "name": "model 37",
+      "price": "4,999"
+    },
+    {
+      "id": 38,
+      "image": "myPackages/Watches/w38.jpg",
+      "name": "model 38",
+      "price": "4,999"
+    },
+    {
+      "id": 39,
+      "image": "myPackages/Watches/w39.jpg",
+      "name": "model 39",
+      "price": "4,999"
+    },
+    {
+      "id": 40,
+      "image": "myPackages/Watches/w40.jpg",
+      "name": "model 40",
+      "price": "4,999"
+    },
+    {
+      "id": 41,
+      "image": "myPackages/Watches/w41.jpg",
+      "name": "model 41",
+      "price": "4,999"
+    }
+  ],
+  "shirts1": [
+    {
+      "id": 1,
+      "image": "myPackages/Shirts/s50.jpg",
+      "name": "shirt1",
+      "price": 499
+    },
+    {
+      "id": 2,
+      "image": "myPackages/Shirts/s2.jpg",
+      "name": "shirt2",
+      "price": 499
+    },
+    {
+      "id": 3,
+      "image": "myPackages/Shirts/s3.jpg",
+      "name": "shirt3",
+      "price": 499
+    },
+    {
+      "id": 4,
+      "image": "myPackages/Shirts/s4.jpg",
+      "name": "shirt4",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "image": "myPackages/Shirts/s5.jpg",
+      "name": "shirt5",
+      "price": 499
+    },
+    {
+      "id": 6,
+      "image": "myPackages/Shirts/s6.jpg",
+      "name": "shirt6",
+      "price": 499
+    },
+    {
+      "id": 7,
+      "image": "myPackages/Shirts/s7.jpg",
+      "name": "shirt7",
+      "price": 499
+    },
+    {
+      "id": 8,
+      "image": "myPackages/Shirts/s8.jpg",
+      "name": "shirt8",
+      "price": 499
+    },
+    {
+      "id": 9,
+      "image": "myPackages/Shirts/s9.jpg",
+      "name": "shirt9",
+      "price": 499
+    },
+    {
+      "id": 10,
+      "image": "myPackages/Shirts/s10.jpg",
+      "name": "shirt10",
+      "price": 499
+    },
+    {
+      "id": 11,
+      "image": "myPackages/Shirts/s11.jpg",
+      "name": "shirt11",
+      "price": 499
+    },
+    {
+      "id": 12,
+      "image": "myPackages/Shirts/s12.jpg",
+      "name": "shirt12",
+      "price": 499
+    },
+    {
+      "id": 13,
+      "image": "myPackages/Shirts/s13.jpg",
+      "name": "shirt13",
+      "price": 499
+    },
+    {
+      "id": 14,
+      "image": "myPackages/Shirts/s14.jpg",
+      "name": "shirt14",
+      "price": 499
+    },
+    {
+      "id": 15,
+      "image": "myPackages/Shirts/s15.jpg",
+      "name": "shirt15",
+      "price": 499
+    },
+    {
+      "id": 16,
+      "image": "myPackages/Shirts/s16.jpg",
+      "name": "shirt16",
+      "price": 499
+    },
+    {
+      "id": 17,
+      "image": "myPackages/Shirts/s17.jpg",
+      "name": "shirt17",
+      "price": 499
+    },
+    {
+      "id": 18,
+      "image": "myPackages/Shirts/s18.jpg",
+      "name": "shirt18",
+      "price": 499
+    },
+    {
+      "id": 19,
+      "image": "myPackages/Shirts/s19.jpg",
+      "name": "shirt19",
+      "price": 499
+    },
+    {
+      "id": 20,
+      "image": "myPackages/Shirts/s20.jpg",
+      "name": "shirt20",
+      "price": 499
+    }
+  ],
+  "shirts2": [
+    {
+      "id": 21,
+      "image": "myPackages/Shirts/s21.jpg",
+      "name": "shirt21",
+      "price": 499
+    },
+    {
+      "id": 22,
+      "image": "myPackages/Shirts/s22.jpg",
+      "name": "shirt22",
+      "price": 499
+    },
+    {
+      "id": 23,
+      "image": "myPackages/Shirts/s23.jpg",
+      "name": "shirt23",
+      "price": 499
+    },
+    {
+      "id": 24,
+      "image": "myPackages/Shirts/s24.jpg",
+      "name": "shirt24",
+      "price": 499
+    },
+    {
+      "id": 25,
+      "image": "myPackages/Shirts/s25.jpg",
+      "name": "shirt25",
+      "price": 499
+    },
+    {
+      "id": 26,
+      "image": "myPackages/Shirts/s26.jpg",
+      "name": "shirt26",
+      "price": 499
+    },
+    {
+      "id": 27,
+      "image": "myPackages/Shirts/s27.jpg",
+      "name": "shirt27",
+      "price": 499
+    },
+    {
+      "id": 28,
+      "image": "myPackages/Shirts/s28.jpg",
+      "name": "shirt28",
+      "price": 499
+    },
+    {
+      "id": 29,
+      "image": "myPackages/Shirts/s29.jpg",
+      "name": "shirt29",
+      "price": 499
+    },
+    {
+      "id": 30,
+      "image": "myPackages/Shirts/s30.jpg",
+      "name": "shirt30",
+      "price": 499
+    },
+    {
+      "id": 31,
+      "image": "myPackages/Shirts/s31.jpg",
+      "name": "shirt31",
+      "price": 499
+    },
+    {
+      "id": 32,
+      "image": "myPackages/Shirts/s32.jpg",
+      "name": "shirt32",
+      "price": 499
+    },
+    {
+      "id": 33,
+      "image": "myPackages/Shirts/s33.jpg",
+      "name": "shirt33",
+      "price": 499
+    },
+    {
+      "id": 34,
+      "image": "myPackages/Shirts/s34.jpg",
+      "name": "shirt34",
+      "price": 499
+    },
+    {
+      "id": 35,
+      "image": "myPackages/Shirts/s35.jpg",
+      "name": "shirt35",
+      "price": 499
+    },
+    {
+      "id": 36,
+      "image": "myPackages/Shirts/s36.jpg",
+      "name": "shirt36",
+      "price": 499
+    },
+    {
+      "id": 37,
+      "image": "myPackages/Shirts/s37.jpg",
+      "name": "shirt37",
+      "price": 499
+    },
+    {
+      "id": 38,
+      "image": "myPackages/Shirts/s38.jpg",
+      "name": "shirt38",
+      "price": 499
+    },
+    {
+      "id": 39,
+      "image": "myPackages/Shirts/s39.jpg",
+      "name": "shirt39",
+      "price": 499
+    },
+    {
+      "id": 40,
+      "image": "myPackages/Shirts/s40.jpg",
+      "name": "shirt40",
+      "price": 499
+    },
+    {
+      "id": 41,
+      "image": "myPackages/Shirts/s41.jpg",
+      "name": "shirt41",
+      "price": 499
+    },
+    {
+      "id": 42,
+      "image": "myPackages/Shirts/s42.jpg",
+      "name": "shirt42",
+      "price": 499
+    },
+    {
+      "id": 43,
+      "image": "myPackages/Shirts/s43.jpg",
+      "name": "shirt43",
+      "price": 499
+    },
+    {
+      "id": 44,
+      "image": "myPackages/Shirts/s44.jpg",
+      "name": "shirt44",
+      "price": 499
+    },
+    {
+      "id": 45,
+      "image": "myPackages/Shirts/s45.jpg",
+      "name": "shirt45",
+      "price": 499
+    },
+    {
+      "id": 46,
+      "image": "myPackages/Shirts/s46.jpg",
+      "name": "shirt46",
+      "price": 499
+    },
+    {
+      "id": 47,
+      "image": "myPackages/Shirts/s47.jpg",
+      "name": "shirt47",
+      "price": 499
+    },
+    {
+      "id": 48,
+      "image": "myPackages/Shirts/s48.jpg",
+      "name": "shirt48",
+      "price": 499
+    }
+  ],
+  "shirts3": [
+    {
+      "id": 51,
+      "image": "myPackages/Shirts/s51.jpg",
+      "name": "shirt51",
+      "price": 499
+    },
+    {
+      "id": 52,
+      "image": "myPackages/Shirts/s52.jpg",
+      "name": "shirt52",
+      "price": 499
+    },
+    {
+      "id": 53,
+      "image": "myPackages/Shirts/s53.jpg",
+      "name": "shirt53",
+      "price": 499
+    },
+    {
+      "id": 54,
+      "image": "myPackages/Shirts/s54.jpg",
+      "name": "shirt54",
+      "price": 499
+    },
+    {
+      "id": 55,
+      "image": "myPackages/Shirts/s55.jpg",
+      "name": "shirt55",
+      "price": 499
+    },
+    {
+      "id": 56,
+      "image": "myPackages/Shirts/s56.jpg",
+      "name": "shirt56",
+      "price": 499
+    },
+    {
+      "id": 57,
+      "image": "myPackages/Shirts/s57.jpg",
+      "name": "shirt57",
+      "price": 499
+    },
+    {
+      "id": 58,
+      "image": "myPackages/Shirts/s58.jpg",
+      "name": "shirt58",
+      "price": 499
+    },
+    {
+      "id": 59,
+      "image": "myPackages/Shirts/s59.jpg",
+      "name": "shirt59",
+      "price": 499
+    },
+    {
+      "id": 60,
+      "image": "myPackages/Shirts/s60.jpg",
+      "name": "shirt60",
+      "price": 499
+    },
+    {
+      "id": 61,
+      "image": "myPackages/Shirts/s61.jpg",
+      "name": "shirt61",
+      "price": 499
+    },
+    {
+      "id": 62,
+      "image": "myPackages/Shirts/s62.jpg",
+      "name": "shirt62",
+      "price": 499
+    }
+  ],
+  "combos1": [
+    {
+      "id": 1,
+      "image": "myPackages/Combo/pair-1.jpg",
+      "name": "pack1",
+      "price": "2,999"
+    },
+    {
+      "id": 2,
+      "image": "myPackages/Combo/pair-2.jpg",
+      "name": "pack2",
+      "price": "2,999"
+    },
+    {
+      "id": 3,
+      "image": "myPackages/Combo/pair-3.jpg",
+      "name": "pack3",
+      "price": "2,999"
+    },
+    {
+      "id": 4,
+      "image": "myPackages/Combo/pair-4.jpg",
+      "name": "pack4",
+      "price": "2,999"
+    },
+    {
+      "id": 5,
+      "image": "myPackages/Combo/pair-5.jpg",
+      "name": "pack5",
+      "price": "2,999"
+    },
+    {
+      "id": 6,
+      "image": "myPackages/Combo/pair-6.jpg",
+      "name": "pack6",
+      "price": "2,999"
+    },
+    {
+      "id": 7,
+      "image": "myPackages/Combo/pair-7.jpg",
+      "name": "pack7",
+      "price": "2,999"
+    },
+    {
+      "id": 8,
+      "image": "myPackages/Combo/pair-8.jpg",
+      "name": "pack8",
+      "price": "2,999"
+    },
+    {
+      "id": 9,
+      "image": "myPackages/Combo/pair-9.jpg",
+      "name": "pack9",
+      "price": "2,999"
+    },
+    {
+      "id": 10,
+      "image": "myPackages/Combo/pair-10.jpg",
+      "name": "pack10",
+      "price": "2,999"
+    },
+    {
+      "id": 11,
+      "image": "myPackages/Combo/pair-11.jpg",
+      "name": "pack11",
+      "price": "2,999"
+    },
+    {
+      "id": 12,
+      "image": "myPackages/Combo/pair-12.jpg",
+      "name": "pack12",
+      "price": "2,999"
+    },
+    {
+      "id": 13,
+      "image": "myPackages/Combo/pair-13.jpg",
+      "name": "pack13",
+      "price": "2,999"
+    },
+    {
+      "id": 14,
+      "image": "myPackages/Combo/pair-14.jpg",
+      "name": "pack14",
+      "price": "2,999"
+    },
+    {
+      "id": 15,
+      "image": "myPackages/Combo/pair-15.jpg",
+      "name": "pack15",
+      "price": "2,999"
+    },
+    {
+      "id": 16,
+      "image": "myPackages/Combo/pair-16.jpg",
+      "name": "pack16",
+      "price": "2,999"
+    },
+    {
+      "id": 17,
+      "image": "myPackages/Combo/pair-17.jpg",
+      "name": "pack17",
+      "price": "2,999"
+    },
+    {
+      "id": 18,
+      "image": "myPackages/Combo/pair-18.jpg",
+      "name": "pack18",
+      "price": "2,999"
+    },
+    {
+      "id": 19,
+      "image": "myPackages/Combo/pair-19.jpg",
+      "name": "pack19",
+      "price": "2,999"
+    },
+    {
+      "id": 20,
+      "image": "myPackages/Combo/pair-20.jpg",
+      "name": "pack20",
+      "price": "2,999"
+    }
+  ],
+  "combos2": [
+    {
+      "id": 21,
+      "image": "myPackages/Combo/pair-21.jpg",
+      "name": "pack21",
+      "price": "2,999"
+    },
+    {
+      "id": 22,
+      "image": "myPackages/Combo/pair-22.jpg",
+      "name": "pack22",
+      "price": "2,999"
+    },
+    {
+      "id": 23,
+      "image": "myPackages/Combo/pair-23.jpg",
+      "name": "pack23",
+      "price": "2,999"
+    },
+    {
+      "id": 24,
+      "image": "myPackages/Combo/pair-24.jpg",
+      "name": "pack24",
+      "price": "2,999"
+    },
+    {
+      "id": 25,
+      "image": "myPackages/Combo/pair-25.jpg",
+      "name": "pack25",
+      "price": "2,999"
+    },
+    {
+      "id": 26,
+      "image": "myPackages/Combo/pair-26.jpg",
+      "name": "pack26",
+      "price": "2,999"
+    },
+    {
+      "id": 27,
+      "image": "myPackages/Combo/pair-27.jpg",
+      "name": "pack27",
+      "price": "2,999"
+    },
+    {
+      "id": 28,
+      "image": "myPackages/Combo/pair-28.jpg",
+      "name": "pack28",
+      "price": "2,999"
+    },
+    {
+      "id": 29,
+      "image": "myPackages/Combo/pair-29.jpg",
+      "name": "pack29",
+      "price": "2,999"
+    },
+    {
+      "id": 30,
+      "image": "myPackages/Combo/pair-30.jpg",
+      "name": "pack30",
+      "price": "2,999"
+    },
+    {
+      "id": 31,
+      "image": "myPackages/Combo/pair-31.jpg",
+      "name": "pack31",
+      "price": "2,999"
+    },
+    {
+      "id": 32,
+      "image": "myPackages/Combo/pair-32.jpg",
+      "name": "pack32",
+      "price": "2,999"
+    },
+    {
+      "id": 33,
+      "image": "myPackages/Combo/pair-33.jpg",
+      "name": "pack33",
+      "price": "2,999"
+    },
+    {
+      "id": 34,
+      "image": "myPackages/Combo/pair-34.jpg",
+      "name": "pack34",
+      "price": "2,999"
+    },
+    {
+      "id": 35,
+      "image": "myPackages/Combo/pair-35.jpg",
+      "name": "pack35",
+      "price": "2,999"
+    },
+    {
+      "id": 36,
+      "image": "myPackages/Combo/pair-36.jpg",
+      "name": "pack36",
+      "price": "2,999"
+    }
+  ],
+  "axiosDelete": [
+    {
+      "id": 7,
+      "name": "satheesh",
+      "email": "satheesh@gmail.com",
+      "number": "",
+      "course": "fullstack"
+    },
+    {
+      "id": 2,
+      "name": "Shruthi",
+      "email": "shruthi@gmail.com",
+      "number": "78576756765765",
+      "course": "fullstack"
+    },
+    {
+      "id": 3,
+      "name": "sravani",
+      "email": "sravani@gmail.com",
+      "number": "49499494896",
+      "course": "fullstack"
+    },
+    {
+      "id": 1,
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "number": 7989378632,
+      "course": "fullstack"
+    },
+    {
+      "id": 5,
+      "name": "shyam",
+      "email": "shyam@gmail.com",
+      "number": "",
+      "course": "fullstack"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "ongole"
+    },
+    {
+      "id": 2,
+      "name": "guntur"
+    },
+    {
+      "id": 3,
+      "name": "vijayawada"
+    },
+    {
+      "id": 4,
+      "name": "nellore"
+    },
+    {
+      "id": 5,
+      "name": "chittore"
+    },
+    {
+      "id": 6,
+      "name": "kakainada"
+    },
+    {
+      "id": 7,
+      "name": "vijayanagaram"
+    },
+    {
+      "id": 8,
+      "name": "vizag"
+    },
+    {
+      "id": 9,
+      "name": "kadapa"
+    },
+    {
+      "id": 10,
+      "name": "karnool"
+    },
+    {
+      "id": 11,
+      "name": "badwel"
+    },
+    {
+      "id": 12,
+      "name": "varangal"
+    },
+    {
+      "id": 13,
+      "name": "hyderabad"
+    },
+    {
+      "id": 14,
+      "name": "secunderabad"
+    },
+    {
+      "id": 15,
+      "name": "nalgonda"
+    },
+    {
+      "id": 16,
+      "name": "vennuru"
+    }
+  ]
+}
