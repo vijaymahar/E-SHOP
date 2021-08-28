@@ -1,9 +1,11 @@
 import React from 'react'
-
+import Header from './Components/Home/Header'
+import "bootstrap/dist/css/bootstrap.min.css"
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 const App = () => {
     return (
         <>
-            <h1>welcome</h1>
+            <Header/>
         </>
     )
 }
