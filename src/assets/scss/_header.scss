@@ -1,0 +1,76 @@
+#signup-btn {
+  background-color: transparent;
+  color: rgb(192, 192, 192);
+  width: 150px;
+  outline: none;
+  border: 1px solid rgb(148, 148, 148);
+  border-radius: 10px;
+  padding: 5px 0px 5px 0px;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  border-image: linear-gradient(56deg, blue, red, pink, yellow), 1;
+  border-image-width: 10px;
+  transition: background-color 0.4s ease;
+  span {
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-color: rgb(34, 229, 255);
+    z-index: -1;
+    transition: all 0.5s ease;
+  }
+  &:hover span {
+    width: 100%;
+  }
+  &:hover {
+    color: #333;
+    font-weight: 500;
+    outline: #333;
+  }
+}
+
+#avatar-logo {
+  box-shadow: 0px 0px 10px rgb(108, 245, 255);
+}
+
+#brand-name {
+  color: rgb(44, 199, 247);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+}
+
+#pagesID {
+  .pageLink {
+    margin: 0px 10px 0px 10px;
+    font-size: 18px;
+    position: relative;
+    color: rgb(167, 167, 167);
+    text-align: center;
+    overflow: hidden;
+    &:focus,
+    &:active {
+      color: rgb(40, 205, 255);
+      font-weight: 500;
+    }
+    span {
+      width: 0%;
+      height: 3px;
+      background-color: rgb(40, 205, 255);
+      position: absolute;
+      bottom: 0;
+      left: 0%;
+      transition: all 0.5s ease;
+    }
+    &:hover {
+      color: rgb(255, 255, 255);
+
+      span {
+        width: 100%;
+      }
+    }
+  }
+}

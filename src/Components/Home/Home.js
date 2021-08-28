@@ -1,16 +1,10 @@
 import React from "react";
-import Header from "../header/Header";
-import { Container, Row, Col } from "react-bootstrap";
+// import { Container, Row, Col } from "react-bootstrap";
+import Carousell from "./Carousel/Carousel";
 const Home = () => {
   return (
     <>
-      <Container fluid>
-        <Row>
-          <Col>
-            <Header />
-          </Col>
-        </Row>
-      </Container>
+      <Carousell />
     </>
   );
 };

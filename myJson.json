@@ -1467,107 +1467,223 @@
       "price": "2,999"
     }
   ],
-  "axiosDelete": [
+
+  
+  "foot-wear": [
     {
-      "id": 7,
-      "name": "satheesh",
-      "email": "satheesh@gmail.com",
-      "number": "",
-      "course": "fullstack"
+      "id": 1,
+      "image": "images/hot-added/foot-wear/m1.png"
     },
     {
       "id": 2,
-      "name": "Shruthi",
-      "email": "shruthi@gmail.com",
-      "number": "78576756765765",
-      "course": "fullstack"
+      "image": "images/hot-added/foot-wear/m2.png"
     },
     {
       "id": 3,
-      "name": "sravani",
-      "email": "sravani@gmail.com",
-      "number": "49499494896",
-      "course": "fullstack"
-    },
-    {
-      "id": 1,
-      "name": "vijay",
-      "email": "vijay@gmail.com",
-      "number": 7989378632,
-      "course": "fullstack"
-    },
-    {
-      "id": 5,
-      "name": "shyam",
-      "email": "shyam@gmail.com",
-      "number": "",
-      "course": "fullstack"
-    }
-  ],
-  "cities": [
-    {
-      "id": 1,
-      "name": "ongole"
-    },
-    {
-      "id": 2,
-      "name": "guntur"
-    },
-    {
-      "id": 3,
-      "name": "vijayawada"
+      "image": "images/hot-added/foot-wear/m3.png"
     },
     {
       "id": 4,
-      "name": "nellore"
+      "image": "images/hot-added/foot-wear/m4.png"
     },
     {
       "id": 5,
-      "name": "chittore"
+      "image": "images/hot-added/foot-wear/m5.png"
     },
     {
       "id": 6,
-      "name": "kakainada"
+      "image": "images/hot-added/foot-wear/w1.png"
     },
     {
       "id": 7,
-      "name": "vijayanagaram"
+      "image": "images/hot-added/foot-wear/w2.png"
     },
     {
       "id": 8,
-      "name": "vizag"
+      "image": "images/hot-added/foot-wear/w3.png"
     },
     {
       "id": 9,
-      "name": "kadapa"
+      "image": "images/hot-added/foot-wear/w4.png"
     },
     {
       "id": 10,
-      "name": "karnool"
+      "image": "images/hot-added/foot-wear/w5.png"
+    }
+  ],
+
+
+  "indian-wear": [
+    {
+      "id": 1,
+      "image": "images/hot-added/indian-wear/m1.png"
     },
     {
-      "id": 11,
-      "name": "badwel"
+      "id": 2,
+      "image": "images/hot-added/indian-wear/m2.png"
     },
     {
-      "id": 12,
-      "name": "varangal"
+      "id": 3,
+      "image": "images/hot-added/indian-wear/m3.png"
     },
     {
-      "id": 13,
-      "name": "hyderabad"
+      "id": 4,
+      "image": "images/hot-added/indian-wear/m4.png"
     },
     {
-      "id": 14,
-      "name": "secunderabad"
+      "id": 5,
+      "image": "images/hot-added/indian-wear/m5.png"
     },
     {
-      "id": 15,
-      "name": "nalgonda"
+      "id": 6,
+      "image": "images/hot-added/indian-wear/w1.png"
     },
     {
-      "id": 16,
-      "name": "vennuru"
+      "id": 7,
+      "image": "images/hot-added/indian-wear/w2.png"
+    },
+    {
+      "id": 8,
+      "image": "images/hot-added/indian-wear/w3.png"
+    },
+    {
+      "id": 9,
+      "image": "images/hot-added/indian-wear/w4.png"
+    },
+    {
+      "id": 10,
+      "image": "images/hot-added/indian-wear/w5.png"
+    }
+  ],
+
+
+  "sports-wear": [
+    {
+      "id": 1,
+      "image": "images/hot-added/sports-wear/m1.png"
+    },
+    {
+      "id": 2,
+      "image": "images/hot-added/sports-wear/m2.png"
+    },
+    {
+      "id": 3,
+      "image": "images/hot-added/sports-wear/m3.png"
+    },
+    {
+      "id": 4,
+      "image": "images/hot-added/sports-wear/m4.png"
+    },
+    {
+      "id": 5,
+      "image": "images/hot-added/sports-wear/m5.png"
+    },
+    {
+      "id": 6,
+      "image": "images/hot-added/sports-wear/w1.png"
+    },
+    {
+      "id": 7,
+      "image": "images/hot-added/sports-wear/w2.png"
+    },
+    {
+      "id": 8,
+      "image": "images/hot-added/sports-wear/w3.png"
+    },
+    {
+      "id": 9,
+      "image": "images/hot-added/sports-wear/w4.png"
+    },
+    {
+      "id": 10,
+      "image": "images/hot-added/sports-wear/w5.png"
+    }
+  ],
+
+
+  "westren-wear": [
+    {
+      "id": 1,
+      "image": "images/hot-added/westren-wear/m1.png"
+    },
+    {
+      "id": 2,
+      "image": "images/hot-added/westren-wear/m2.png"
+    },
+    {
+      "id": 3,
+      "image": "images/hot-added/westren-wear/m3.png"
+    },
+    {
+      "id": 4,
+      "image": "images/hot-added/westren-wear/m4.png"
+    },
+    {
+      "id": 5,
+      "image": "images/hot-added/westren-wear/m5.png"
+    },
+    {
+      "id": 6,
+      "image": "images/hot-added/westren-wear/w1.png"
+    },
+    {
+      "id": 7,
+      "image": "images/hot-added/westren-wear/w2.png"
+    },
+    {
+      "id": 8,
+      "image": "images/hot-added/westren-wear/w3.png"
+    },
+    {
+      "id": 9,
+      "image": "images/hot-added/westren-wear/w4.png"
+    },
+    {
+      "id": 10,
+      "image": "images/hot-added/westren-wear/w5.png"
+    }
+  ],
+
+  "top-brands": [
+    {
+      "id": 1,
+      "image": "images/hot-added/top_brands/brand1.png"
+    },
+    {
+      "id": 2,
+      "image": "images/hot-added/top_brands/brand2.png"
+    },
+    {
+      "id": 3,
+      "image": "images/hot-added/top_brands/brand3.png"
+    },
+    {
+      "id": 4,
+      "image": "images/hot-added/top_brands/brand4.png"
+    },
+    {
+      "id": 5,
+      "image": "images/hot-added/top_brands/brand5.png"
+    },
+    {
+      "id": 6,
+      "image": "images/hot-added/top_brands/brand6.png"
+    },
+    {
+      "id": 7,
+      "image": "images/hot-added/top_brands/brand7.png"
+    },
+    {
+      "id": 8,
+      "image": "images/hot-added/top_brands/brand8.png"
+    },
+    {
+      "id": 9,
+      "image": "images/hot-added/top_brands/brand9.png"
+    },
+    {
+      "id": 10,
+      "image": "images/hot-added/top_brands/brand10.png"
     }
   ]
 }
