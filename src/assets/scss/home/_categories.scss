@@ -1,0 +1,75 @@
+@import "../fonts/fonts";
+
+#title-style {
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin font($value1, $value2, $value3) {
+  font-size: $value1;
+  letter-spacing: $value2;
+  text-transform: uppercase;
+  font-weight: $value3;
+}
+#category-title {
+  font-family: "Inter", sans-serif;
+  h1 {
+    @include font(4em, 2px, 600);
+  }
+  p {
+    @include font(2em, 2px, 500);
+  }
+}
+
+@media only screen and (max-width: 580px) {
+  #images-data {
+    display: flex;
+    justify-content: center;
+  }
+  #category-images {
+    @extend #images-data;
+  }
+
+  #category-title {
+    font-family: "Inter", sans-serif;
+    h1 {
+      @include font(2em, 2px, 600);
+    }
+    p {
+      @include font(1em, 2px, 500);
+    }
+  }
+
+  #title-style {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media only screen and (min-width: 580px) and (max-width: 786px) {
+  #category-title {
+    font-family: "Inter", sans-serif;
+    h1 {
+      @include font(3em, 2px, 600);
+    }
+    p {
+      @include font(1.5em, 2px, 500);
+    }
+  }
+}
+
+@media only screen and (min-width: 786px) and (max-width: 1024px) {
+  #category-title {
+    font-family: "Inter", sans-serif;
+    h1 {
+      @include font(3.5em, 2px, 600);
+    }
+    p {
+      @include font(2em, 2px, 500);
+    }
+  }
+}

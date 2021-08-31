@@ -6,6 +6,7 @@ import Header from "./Components/header/Header";
 import Footer from "./Components/footer/Footer";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Home from "./Components/Home/Home";
+import ShirtsPage from "./Components/shirts/ShirtsPage";
 const App = () => {
   return (
     <BrowserRouter>
@@ -18,7 +19,9 @@ const App = () => {
         <Row>
           <Col>
             <Switch>
-              <Route path="/" component={Home} />
+              <Route path="/" exact component={Home} />
+              <Route path="/home" exact component={Home} />
+              <Route path="/shirts" component={ShirtsPage} />
             </Switch>
           </Col>
         </Row>

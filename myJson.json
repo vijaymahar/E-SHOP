@@ -1468,7 +1468,7 @@
     }
   ],
 
-  
+
   "foot-wear": [
     {
       "id": 1,
@@ -1684,6 +1684,100 @@
     {
       "id": 10,
       "image": "images/hot-added/top_brands/brand10.png"
+    }
+  ],
+
+  "top-Categoties": [
+    {
+      "id": 1,
+      "image": "images/hot-added/categories/m1.png"
+    },
+    {
+      "id": 2,
+      "image": "images/hot-added/categories/m2.png"
+    },
+    {
+      "id": 3,
+      "image": "images/hot-added/categories/m3.png"
+    },
+    {
+      "id": 4,
+      "image": "images/hot-added/categories/m4.png"
+    },
+    {
+      "id": 5,
+      "image": "images/hot-added/categories/m5.png"
+    },
+    {
+      "id": 6,
+      "image": "images/hot-added/categories/m6.png"
+    },
+    {
+      "id": 7,
+      "image": "images/hot-added/categories/w1.png"
+    },
+    {
+      "id": 8,
+      "image": "images/hot-added/categories/w2.png"
+    },
+    {
+      "id": 9,
+      "image": "images/hot-added/categories/w3.png"
+    },
+    {
+      "id": 10,
+      "image": "images/hot-added/categories/w4.png"
+    },
+    {
+      "id": 11,
+      "image": "images/hot-added/categories/w5.png"
+    },
+    {
+      "id": 12,
+      "image": "images/hot-added/categories/w6.png"
+    }
+  ],
+
+    "hot-brands": [
+    {
+      "id": 1,
+      "image": "images/hot-added/hot_brands/m1.png"
+    },
+    {
+      "id": 2,
+      "image": "images/hot-added/hot_brands/m2.png"
+    },
+    {
+      "id": 3,
+      "image": "images/hot-added/hot_brands/m3.png"
+    },
+    {
+      "id": 4,
+      "image": "images/hot-added/hot_brands/m4.png"
+    },
+    {
+      "id": 5,
+      "image": "images/hot-added/hot_brands/m5.png"
+    },
+    {
+      "id": 6,
+      "image": "images/hot-added/hot_brands/w1.png"
+    },
+    {
+      "id": 7,
+      "image": "images/hot-added/hot_brands/w2.png"
+    },
+    {
+      "id": 8,
+      "image": "images/hot-added/hot_brands/w3.png"
+    },
+    {
+      "id": 9,
+      "image": "images/hot-added/hot_brands/w4.png"
+    },
+    {
+      "id": 10,
+      "image": "images/hot-added/hot_brands/w5.png"
     }
   ]
 }
