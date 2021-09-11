@@ -14,7 +14,7 @@ const Categories = () => {
 
   return (
     <>
-      <Container fluid className="bg-light my-5" id="category_container">
+      <Container fluid className="bg-light mt-5" id="category_container">
         <Row>
           <Col id="title-style">
             <center id="category-title">
@@ -23,14 +23,22 @@ const Categories = () => {
             </center>
           </Col>
         </Row>
-        <Row className="w-100 mx-auto">
+        <Row>
           {product.map((product) => {
             return (
-              <Col id="category-images" sm={6} md={4} lg={2} key={product.id}>
+              <Col
+                id="category-images"
+                xs={6}
+                sm={6}
+                md={4}
+                lg={2}
+                key={product.id}
+              >
                 <img
                   src={product.image}
                   alt={product.id}
-                  style={{ width: "200px", height: "auto" }}
+                  id="category_image"
+                  // style={{ width: "200px", height: "auto" }}
                 />
               </Col>
             );

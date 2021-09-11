@@ -12,7 +12,7 @@ const Home = () => {
 
   useEffect(() => {
     dispatch(fetchAllProducts());
-    console.log(products);
+    // console.log(products);
   }, []);
 
   return (
@@ -21,16 +21,16 @@ const Home = () => {
         <Row>
           <Carousell />
         </Row>
-        <Row className="g-0 p-0">
+        <Row>
           <Categories />
         </Row>
-        {AllBradsData.map((cur, ind) => {
+        {/* {AllBradsData.map((cur, ind) => {
           return (
             <Row key={ind}>
               <TopBrands data={cur} />
             </Row>
           );
-        })}
+        })} */}
       </Container>
     </>
   );

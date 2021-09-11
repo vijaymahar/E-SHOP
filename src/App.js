@@ -7,10 +7,14 @@ import Footer from "./Components/footer/Footer";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Home from "./Components/Home/Home";
 import ShirtsPage from "./Components/shirts/ShirtsPage";
+import ShoePage from "./Components/shoes/ShoePage";
+import Hoodies from "./Components/hoodies/Hoodies";
+import Watches from "./Components/watches/Watches";
+import Combos from "./Components/combos/Combos";
 const App = () => {
   return (
     <BrowserRouter>
-      <Container fluid className="g-0 p-0 m-0">
+      <Container fluid className="g-0">
         <Row className="g-0 p-0 m-0">
           <Col className="g-0 p-0 m-0">
             <Header />
@@ -22,6 +26,10 @@ const App = () => {
               <Route path="/" exact component={Home} />
               <Route path="/home" exact component={Home} />
               <Route path="/shirts" component={ShirtsPage} />
+              <Route path="/shoes" component={ShoePage} />
+              <Route path="/hoodies" component={Hoodies} />
+              <Route path="/watches" component={Watches} />
+              <Route path="/combos" component={Combos} />
             </Switch>
           </Col>
         </Row>

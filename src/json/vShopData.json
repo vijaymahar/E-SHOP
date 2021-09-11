@@ -1,0 +1,187 @@
+{
+    "shirts_data": [
+     {
+        "id" : 1,
+        "image" : "images/Shirts/s3.jpg",
+        "title" : "denim style",
+        "about" : "lets get and fit yourself",
+        "to" : "/shoes"
+    },
+    {
+        "id" : 2,
+        "image" : "images/Shirts/s14.jpg",
+        "title" : "black shade",
+        "about" : "rock out baee",
+        "to" : "/combos"
+    },
+    {
+        "id" : 3,
+        "image" : "images/Shirts/s10.jpg",
+        "title" : "sleeve out",
+        "about" : "ware in nd war out",
+        "to" : "/shirts"
+    },
+    {
+        "id" : 4,
+        "image" : "images/Shirts/s12.jpg",
+        "title" : "cool fit",
+        "about" : "don't get ran out of time",
+        "to" : "/watches"
+    },
+    {
+        "id" : 5,
+        "image" : "images/Shirts/s41.jpg",
+        "title" : "pink panthor",
+        "about" : "find for your loved once",
+        "to" : "/hoodies"
+    }
+    ],
+    "shoes_data": [
+        {
+        "id" : 1,
+        "image" : "images/Shoes/pair5.jpg",
+        "title" : "denim style",
+        "about" : "lets get and fit yourself",
+        "to" : "/shoes"
+    },
+    {
+        "id" : 2,
+        "image" : "images/Shoes/pair49.jpg",
+        "title" : "black shade",
+        "about" : "rock out baee",
+        "to" : "/combos"
+    },
+    {
+        "id" : 3,
+        "image" : "images/Shoes/pair52.jpg",
+        "title" : "sleeve out",
+        "about" : "ware in nd war out",
+        "to" : "/shirts"
+    },
+    {
+        "id" : 4,
+        "image" : "images/Shoes/pair55.jpg",
+        "title" : "cool fit",
+        "about" : "don't get ran out of time",
+        "to" : "/watches"
+    },
+    {
+        "id" : 5,
+        "image" : "images/Shoes/pair64.jpg",
+        "title" : "pink panthor",
+        "about" : "find for your loved once",
+        "to" : "/hoodies"
+    }
+    ],
+    "hoodies_data": [
+            {
+        "id" : 1,
+        "image" : "images/Hoodies/h25.jpg",
+        "title" : "denim style",
+        "about" : "lets get and fit yourself",
+        "to" : "/shoes"
+    },
+    {
+        "id" : 2,
+        "image" : "images/Hoodies/h56.jpg",
+        "title" : "black shade",
+        "about" : "rock out baee",
+        "to" : "/combos"
+    },
+    {
+        "id" : 3,
+        "image" : "images/Hoodies/h68.jpg",
+        "title" : "sleeve out",
+        "about" : "ware in nd war out",
+        "to" : "/shirts"
+    },
+    {
+        "id" : 4,
+        "image" : "images/Hoodies/h72.jpg",
+        "title" : "cool fit",
+        "about" : "don't get ran out of time",
+        "to" : "/watches"
+    },
+    {
+        "id" : 5,
+        "image" : "images/Hoodies/h44.jpg",
+        "title" : "pink panthor",
+        "about" : "find for your loved once",
+        "to" : "/hoodies"
+    }
+    ],
+    "watches_data":[
+         {
+        "id" : 1,
+        "image" : "images/Watches/w13.jpg",
+        "title" : "denim style",
+        "about" : "lets get and fit yourself",
+        "to" : "/shoes"
+    },
+    {
+        "id" : 2,
+        "image" : "images/Watches/w23.jpg",
+        "title" : "black shade",
+        "about" : "rock out baee",
+        "to" : "/combos"
+    },
+    {
+        "id" : 3,
+        "image" : "images/Watches/w43.jpg",
+        "title" : "sleeve out",
+        "about" : "ware in nd war out",
+        "to" : "/shirts"
+    },
+    {
+        "id" : 4,
+        "image" : "images/Watches/w26.jpg",
+        "title" : "cool fit",
+        "about" : "don't get ran out of time",
+        "to" : "/watches"
+    },
+    {
+        "id" : 5,
+        "image" : "images/Watches/w12.jpg",
+        "title" : "pink panthor",
+        "about" : "find for your loved once",
+        "to" : "/hoodies"
+    }
+    ],
+    "combos_data":[
+        {
+        "id" : 1,
+        "image" : "images/Combo/pair-6.jpg",
+        "title" : "denim style",
+        "about" : "lets get and fit yourself",
+        "to" : "/shoes"
+    },
+    {
+        "id" : 2,
+        "image" : "images/Combo/pair-2.jpg",
+        "title" : "black shade",
+        "about" : "rock out baee",
+        "to" : "/combos"
+    },
+    {
+        "id" : 3,
+        "image" : "images/Combo/pair-22.jpg",
+        "title" : "sleeve out",
+        "about" : "ware in nd war out",
+        "to" : "/shirts"
+    },
+    {
+        "id" : 4,
+        "image" : "images/Combo/pair-16.jpg",
+        "title" : "cool fit",
+        "about" : "don't get ran out of time",
+        "to" : "/watches"
+    },
+    {
+        "id" : 5,
+        "image" : "images/Combo/pair-25.jpg",
+        "title" : "pink panthor",
+        "about" : "find for your loved once",
+        "to" : "/hoodies"
+    }
+    ]
+}
