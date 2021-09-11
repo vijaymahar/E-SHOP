@@ -1,86 +1,122 @@
 @import "../fonts/fonts";
 
-#title-style {
-  height: 250px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+@mixin font($size, $weight, $space, $color) {
+  font-family: "Inter", sans-serif;
+  font-size: $size;
+  font-weight: $weight;
+  letter-spacing: $space;
+  color: $color;
 }
 
-@mixin font($value1, $value2, $value3) {
-  font-size: $value1;
-  letter-spacing: $value2;
-  text-transform: uppercase;
-  font-weight: $value3;
-}
-#category-title {
-  font-family: "Inter", sans-serif;
+@mixin title-style($h1, $p) {
   h1 {
-    @include font(4em, 2px, 600);
+    font-size: $h1;
   }
   p {
-    @include font(2em, 2px, 500);
+    font-size: $p;
   }
 }
 
-//=========MOBILE============//
-@media only screen and (max-width: 480px) {
-  #images-data {
-    display: flex;
-    justify-content: center;
-  }
-  #category-images {
-    @extend #images-data;
-  }
+// ========DESKTOP========= //
 
+#title_style {
+  text-align: center;
+  h1 {
+    @include font(4rem, 600, 3px, #333);
+  }
+  p {
+    @include font(2rem, 500, 2px, rgb(23, 189, 255));
+    text-transform: uppercase;
+  }
+}
+
+#category_image {
+  width: 195px;
+  height: auto;
+}
+
+#category_images {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+// ========DESKTOP========= //
+
+// ========LAPTOP========= //
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
   #category_image {
-    width: 30vw;
-    height: auto;
+    width: 225px;
   }
 
-  #category-title {
-    font-family: "Inter", sans-serif;
-    h1 {
-      @include font(2em, 2px, 600);
-    }
-    p {
-      @include font(1em, 2px, 500);
-    }
-  }
-
-  #title-style {
-    height: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  #title_style {
+    @include title-style(3.5rem, 1.7rem);
   }
 }
-//=========MOBILE============//
 
-//=========TABLET============//
-@media only screen and (min-width: 480px) and (max-width: 768px) {
-  #category-title {
-    font-family: "Inter", sans-serif;
-    h1 {
-      @include font(3em, 2px, 600);
-    }
-    p {
-      @include font(1.5em, 2px, 500);
-    }
+// ========LAPTOP========= //
+
+// ========TABLET========= //
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  #category_image {
+    width: 250px;
+  }
+
+  #title_style {
+    @include title-style(3rem, 1.5rem);
   }
 }
-//=========TABLET============//
 
-//=========LAP TOP============//
-@media only screen and (min-width: 768px) and (max-width: 1280px) {
-  #category-title {
-    font-family: "Inter", sans-serif;
-    h1 {
-      @include font(3.5em, 2px, 600);
-    }
-    p {
-      @include font(2em, 2px, 500);
-    }
+// ========TABLET========= //
+
+// ========MOBILE - LARGE========= //
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+  #category_image {
+    width: 285px;
+  }
+  #title_style {
+    @include title-style(2.7rem, 1.3rem);
   }
 }
-//=========LAP TOP============//
+
+// ========MOBILE - LARGE========= //
+
+// ========MOBILE - MEDIUM========= //
+
+@media only screen and (min-width: 467px) and (max-width: 576px) {
+  #category_image {
+    width: 210px;
+  }
+  #title_style {
+    @include title-style(2.4rem, 1.2rem);
+  }
+}
+// ========MOBILE - MEDIUM========= //
+
+// ========MOBILE - SMALL========= //
+
+@media only screen and (max-width: 467px) {
+  #category_image {
+    width: 180px;
+  }
+  #title_style {
+    @include title-style(1.7rem, 1rem);
+  }
+}
+// ========MOBILE - SMALL========= //
+
+// ========MOBILE - EXTRA SMALL========= //
+
+@media only screen and (max-width: 335px) {
+  #category_image {
+    width: 130px;
+  }
+  #title_style {
+    @include title-style(1.4rem, 0.7rem);
+  }
+}
+
+// ========MOBILE - EXTRA SMALL========= //

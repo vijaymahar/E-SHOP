@@ -21,7 +21,7 @@ const Home = () => {
         <Row>
           <Carousell />
         </Row>
-        <Row>
+        <Row className="bg-light g-0">
           <Categories />
         </Row>
         {/* {AllBradsData.map((cur, ind) => {

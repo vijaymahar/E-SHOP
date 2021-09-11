@@ -1,6 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Pacifico&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Pacifico&display=swap");
 #signup-btn {
   background-color: transparent;
@@ -192,112 +190,113 @@ body {
   background-color: #ffffff;
 }
 
-#title-style {
-  height: 250px;
+#title_style {
+  text-align: center;
+}
+
+#title_style h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 4rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  color: #333;
+}
+
+#title_style p {
+  font-family: "Inter", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  letter-spacing: 2px;
+  color: #17bdff;
+  text-transform: uppercase;
+}
+
+#category_image {
+  width: 195px;
+  height: auto;
+}
+
+#category_images {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
 }
 
-#category-title {
-  font-family: "Inter", sans-serif;
-}
-
-#category-title h1 {
-  font-size: 4em;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  font-weight: 600;
-}
-
-#category-title p {
-  font-size: 2em;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  font-weight: 500;
-}
-
-@media only screen and (max-width: 480px) {
-  #images-data, #category-images {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-  }
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
   #category_image {
-    width: 30vw;
-    height: auto;
+    width: 225px;
   }
-  #category-title {
-    font-family: "Inter", sans-serif;
+  #title_style h1 {
+    font-size: 3.5rem;
   }
-  #category-title h1 {
-    font-size: 2em;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-weight: 600;
-  }
-  #category-title p {
-    font-size: 1em;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-weight: 500;
-  }
-  #title-style {
-    height: 150px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+  #title_style p {
+    font-size: 1.7rem;
   }
 }
 
-@media only screen and (min-width: 480px) and (max-width: 768px) {
-  #category-title {
-    font-family: "Inter", sans-serif;
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  #category_image {
+    width: 250px;
   }
-  #category-title h1 {
-    font-size: 3em;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-weight: 600;
+  #title_style h1 {
+    font-size: 3rem;
   }
-  #category-title p {
-    font-size: 1.5em;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-weight: 500;
+  #title_style p {
+    font-size: 1.5rem;
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1280px) {
-  #category-title {
-    font-family: "Inter", sans-serif;
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+  #category_image {
+    width: 285px;
   }
-  #category-title h1 {
-    font-size: 3.5em;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-weight: 600;
+  #title_style h1 {
+    font-size: 2.7rem;
   }
-  #category-title p {
-    font-size: 2em;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-weight: 500;
+  #title_style p {
+    font-size: 1.3rem;
+  }
+}
+
+@media only screen and (min-width: 467px) and (max-width: 576px) {
+  #category_image {
+    width: 210px;
+  }
+  #title_style h1 {
+    font-size: 2.4rem;
+  }
+  #title_style p {
+    font-size: 1.2rem;
+  }
+}
+
+@media only screen and (max-width: 467px) {
+  #category_image {
+    width: 180px;
+  }
+  #title_style h1 {
+    font-size: 1.7rem;
+  }
+  #title_style p {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 335px) {
+  #category_image {
+    width: 130px;
+  }
+  #title_style h1 {
+    font-size: 1.4rem;
+  }
+  #title_style p {
+    font-size: 0.7rem;
   }
 }
 

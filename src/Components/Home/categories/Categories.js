@@ -14,24 +14,24 @@ const Categories = () => {
 
   return (
     <>
-      <Container fluid className="bg-light mt-5" id="category_container">
+      <Container fluid className="mt-5">
         <Row>
-          <Col id="title-style">
-            <center id="category-title">
-              <h1>SHOP BY CATEGORIES</h1>
-              <p>top categories to add bag</p>
-            </center>
+          <Col id="title_style">
+            <h1>SHOP BY CATEGORIES</h1>
+            <p>top categories to add bag</p>
           </Col>
         </Row>
-        <Row>
+        <Row className="g-0" id="category_imge_section">
           {product.map((product) => {
             return (
               <Col
-                id="category-images"
+                id="category_images"
+                className="mx-auto"
                 xs={6}
                 sm={6}
                 md={4}
-                lg={2}
+                lg={3}
+                xl={2}
                 key={product.id}
               >
                 <img
