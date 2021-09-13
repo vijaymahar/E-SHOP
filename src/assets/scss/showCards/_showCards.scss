@@ -1,44 +1,54 @@
 @import "../fonts/fonts";
 
-@mixin font {
-  font-family: "Inter", sans-serif;
-  text-align: center;
-  letter-spacing: 2px;
-}
-
-// title-section
-#title_section {
-  background-color: rgb(250, 250, 250);
-  padding: 30px 0px 30px 0px;
-  text-transform: uppercase;
-  @include font;
+@mixin mainTitle($h1, $p) {
   h1 {
-    font-size: 45px;
+    font-size: $h1;
   }
   p {
-    font-size: 25px;
+    font-size: $p;
   }
 }
-// title-section
+
+@mixin showCardStyle($width, $height, $name, $descript) {
+  #show_card {
+    width: $width;
+    height: $height;
+    .card_title {
+      font-size: $name;
+    }
+    .card_text {
+      font-size: $descript;
+    }
+  }
+  #card_image_waffer {
+    width: $width;
+    height: $width;
+    overflow: hidden;
+  }
+  #show_card_image {
+    width: $width;
+    height: $width;
+  }
+}
+
+//=======DESKTOP======== //
 
 #show_card {
-  width: 250px;
-  height: 300px;
-  @include font;
   overflow: hidden;
-  &hover {
-    box-shadow: 0px 0px 20px #333;
+  &:hover {
+    box-shadow: 0px 0px 20px rgb(211, 211, 211);
   }
   #show_card_body {
-    height: 100px !important;
     overflow: hidden;
+    text-align: center;
     .card_title {
       font-weight: 500;
       letter-spacing: 2px;
+      text-transform: uppercase;
     }
     .card_text {
-      font-size: 14px;
       letter-spacing: 1px;
+      text-transform: capitalize;
     }
   }
 
@@ -48,8 +58,73 @@
   }
 }
 
-#show_card_image {
-  width: 200px;
-  height: 200px;
-  margin: 0px auto;
+// title-section
+#showcards_title {
+  background-color: rgb(243, 243, 243);
+  padding: 30px 0px 30px 0px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  letter-spacing: 2px;
 }
+
+@include mainTitle(4rem, 2rem);
+
+// title-section
+//card section
+@include showCardStyle(220px, 330px, 18px, 15px);
+
+#cards_holder {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+//card section
+
+//=======DESKTOP======== //
+
+//=======LAPTOP======== //
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  @include mainTitle(3.6rem, 1.7rem);
+
+  @include showCardStyle(160px, 260px, 17px, 13px);
+}
+
+//=======LAPTOP======== //
+
+//========LAPTOP SMALL========//
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  @include mainTitle(3rem, 1.5rem);
+}
+
+//========LAPTOP SMALL========//
+
+//========TABLET========//
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+  @include mainTitle(2.7rem, 1.3rem);
+}
+
+//========TABLET========//
+
+//========MOBILE-L========//
+
+@media only screen and (min-width: 467px) and (max-width: 576px) {
+  @include mainTitle(2.4rem, 1.2rem);
+}
+
+//========MOBILE-L========//
+
+//========MOBILE-S========//
+
+@media only screen and (max-width: 467px) {
+  @include mainTitle(1.7rem, 1rem);
+}
+
+@media only screen and (max-width: 335px) {
+  @include mainTitle(1.4rem, 0.7rem);
+}
+
+//========MOBILE-S========//

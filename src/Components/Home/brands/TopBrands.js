@@ -16,31 +16,29 @@ const TopBrands = ({ data }) => {
     <>
       <Container fluid className="g-0 my-5" id="toBrandsContainer">
         <Row className="mb-5 bg-light">
-          <Col id="title-style">
-            <div id="category-title">
-              <h1>{title}</h1>
-              <p className="text-info">{subTitle}</p>
-            </div>
+          <Col id="title_style">
+            <h1>{title}</h1>
+            <p>{subTitle}</p>
           </Col>
         </Row>
         <Row className="d-flex justify-content-center">
           {product.map((product) => {
             return (
               <Col
-                id="images-data"
-                className="mx-4"
-                key={product.id}
+                id="category_images"
                 xs={6}
                 sm={6}
                 md={4}
-                lg={2}
+                lg={3}
                 xl={2}
+                className="mx-auto"
               >
                 <img
                   src={product.image}
                   alt={product.image}
                   className="mb-5"
-                  style={{ width: "15em", height: "22em" }}
+                  id="category_image"
+                  // style={{ width: "15em", height: "22em" }}
                 />
               </Col>
             );

@@ -6,12 +6,12 @@ import { hoodieData } from "../../data/ShowcadsData";
 const Hoodies = () => {
   return (
     <>
-      <Container fluid>
+      <Container fluid className="g-0">
         <Row>
           <img src={Banner} alt="hoodie_banner" className="w-100 h-auto" />
         </Row>
-        <Row>
-          <Col>
+        <Row className="g-0">
+          <Col className="g-0">
             <ShowCards source={hoodieData} />
           </Col>
         </Row>

@@ -10,8 +10,8 @@ const Watches = () => {
         <Row>
           <img src={Banner} alt="watches_banner" className="w-100 h-auto" />
         </Row>
-        <Row>
-          <Col>
+        <Row className="g-0">
+          <Col className="g-0">
             <ShowCards source={WatchesData} />
           </Col>
         </Row>

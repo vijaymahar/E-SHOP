@@ -31,8 +31,15 @@
     {
         "id" : 5,
         "image" : "images/Shirts/s41.jpg",
-        "title" : "pink panthor",
-        "about" : "find for your loved once",
+        "title" : "trendy striped",
+        "about" : "all new collections",
+        "to" : "/hoodies"
+    },
+    {
+        "id" : 6,
+        "image" : "images/Shirts/s76.jpg",
+        "title" : "mutli mix",
+        "about" : "always set your trend",
         "to" : "/hoodies"
     }
     ],
@@ -40,36 +47,43 @@
         {
         "id" : 1,
         "image" : "images/Shoes/pair5.jpg",
-        "title" : "denim style",
-        "about" : "lets get and fit yourself",
+        "title" : "imported nike",
+        "about" : "mens flex running shoes",
         "to" : "/shoes"
     },
     {
         "id" : 2,
         "image" : "images/Shoes/pair49.jpg",
-        "title" : "black shade",
-        "about" : "rock out baee",
+        "title" : "Reebok",
+        "about" : "men Marco Training Shoes",
         "to" : "/combos"
     },
     {
         "id" : 3,
         "image" : "images/Shoes/pair52.jpg",
-        "title" : "sleeve out",
-        "about" : "ware in nd war out",
+        "title" : "Adidas",
+        "about" : "mens Uiflow Running Shoes",
         "to" : "/shirts"
     },
     {
         "id" : 4,
-        "image" : "images/Shoes/pair55.jpg",
-        "title" : "cool fit",
-        "about" : "don't get ran out of time",
+        "image" : "images/Shoes/pair70.jpg",
+        "title" : "All Start",
+        "about" : "Mens Casual wear Shoes",
         "to" : "/watches"
     },
     {
         "id" : 5,
         "image" : "images/Shoes/pair64.jpg",
-        "title" : "pink panthor",
-        "about" : "find for your loved once",
+        "title" : "Off Limit",
+        "about" : "Mens Training or Gym Shoes",
+        "to" : "/hoodies"
+    },
+    {
+        "id" : 6,
+        "image" : "images/Shoes/pair61.jpg",
+        "title" : "Red Tape",
+        "about" : "Mens Air + Walking Shoes",
         "to" : "/hoodies"
     }
     ],
@@ -77,36 +91,43 @@
             {
         "id" : 1,
         "image" : "images/Hoodies/h25.jpg",
-        "title" : "denim style",
-        "about" : "lets get and fit yourself",
+        "title" : "H & M",
+        "about" : "Mens solid geen hoodie",
         "to" : "/shoes"
     },
     {
         "id" : 2,
         "image" : "images/Hoodies/h56.jpg",
-        "title" : "black shade",
-        "about" : "rock out baee",
+        "title" : "Roadster",
+        "about" : "mens Relaxed Hoodie",
         "to" : "/combos"
     },
     {
         "id" : 3,
         "image" : "images/Hoodies/h68.jpg",
-        "title" : "sleeve out",
-        "about" : "ware in nd war out",
+        "title" : "HERE&NOW",
+        "about" : "mens pullover sweatshirt",
         "to" : "/shirts"
     },
     {
         "id" : 4,
         "image" : "images/Hoodies/h72.jpg",
-        "title" : "cool fit",
-        "about" : "don't get ran out of time",
+        "title" : "Calvin Klein Jeans",
+        "about" : "Mens printed sweatshirt",
         "to" : "/watches"
     },
     {
         "id" : 5,
         "image" : "images/Hoodies/h44.jpg",
-        "title" : "pink panthor",
-        "about" : "find for your loved once",
+        "title" : "Mast & Harbour",
+        "about" : "mens relaxed hoodie",
+        "to" : "/hoodies"
+    },
+    {
+        "id" : 6,
+        "image" : "images/Hoodies/h61.jpg",
+        "title" : "Vans",
+        "about" : "mens fit sweathoodie",
         "to" : "/hoodies"
     }
     ],
@@ -114,36 +135,43 @@
          {
         "id" : 1,
         "image" : "images/Watches/w13.jpg",
-        "title" : "denim style",
-        "about" : "lets get and fit yourself",
+        "title" : "Tommy Hilgiger",
+        "about" : "unisex smart watch",
         "to" : "/shoes"
     },
     {
         "id" : 2,
         "image" : "images/Watches/w23.jpg",
-        "title" : "black shade",
-        "about" : "rock out baee",
+        "title" : "Apple",
+        "about" : "apple smart watch pro",
         "to" : "/combos"
     },
     {
         "id" : 3,
         "image" : "images/Watches/w43.jpg",
-        "title" : "sleeve out",
-        "about" : "ware in nd war out",
+        "title" : "Wrogn",
+        "about" : "men anlogue watch",
         "to" : "/shirts"
     },
     {
         "id" : 4,
         "image" : "images/Watches/w26.jpg",
-        "title" : "cool fit",
-        "about" : "don't get ran out of time",
+        "title" : "Michael Kors",
+        "about" : "unisex analogue watch",
         "to" : "/watches"
     },
     {
         "id" : 5,
         "image" : "images/Watches/w12.jpg",
-        "title" : "pink panthor",
-        "about" : "find for your loved once",
+        "title" : "Rizzly",
+        "about" : "mens smart watch",
+        "to" : "/hoodies"
+    },
+    {
+        "id" : 6,
+        "image" : "images/Watches/w36.jpg",
+        "title" : "Mast & Harbour",
+        "about" : "mens analogue watch",
         "to" : "/hoodies"
     }
     ],
@@ -151,36 +179,43 @@
         {
         "id" : 1,
         "image" : "images/Combo/pair-6.jpg",
-        "title" : "denim style",
-        "about" : "lets get and fit yourself",
+        "title" : "HERE&NOW",
+        "about" : "mens slim fit office tuxedo",
         "to" : "/shoes"
     },
     {
         "id" : 2,
         "image" : "images/Combo/pair-2.jpg",
-        "title" : "black shade",
-        "about" : "rock out baee",
+        "title" : "invictus",
+        "about" : "mens sporty wear combo",
         "to" : "/combos"
     },
     {
         "id" : 3,
         "image" : "images/Combo/pair-22.jpg",
-        "title" : "sleeve out",
-        "about" : "ware in nd war out",
+        "title" : "mast & harbour",
+        "about" : "mens outdoor waer combo",
         "to" : "/shirts"
     },
     {
         "id" : 4,
         "image" : "images/Combo/pair-16.jpg",
-        "title" : "cool fit",
-        "about" : "don't get ran out of time",
+        "title" : "wrogn",
+        "about" : "mens casual bambo wear",
         "to" : "/watches"
     },
     {
         "id" : 5,
         "image" : "images/Combo/pair-25.jpg",
-        "title" : "pink panthor",
-        "about" : "find for your loved once",
+        "title" : "yuuki",
+        "about" : "mens light party wear",
+        "to" : "/hoodies"
+    },
+    {
+        "id" : 6,
+        "image" : "images/Combo/pair-24.jpg",
+        "title" : "Roadster",
+        "about" : "mens cool fit combo",
         "to" : "/hoodies"
     }
     ]

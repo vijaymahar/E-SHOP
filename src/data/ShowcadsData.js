@@ -24,6 +24,6 @@ export const WatchesData = {
 
 export const ComboData = {
   url: "http://localhost:3006/combos_data",
-  title: "got comfused",
-  subTitle: "we have a solution for that also..😊",
+  title: "all in one pack",
+  subTitle: "we got all wear collections",
 };

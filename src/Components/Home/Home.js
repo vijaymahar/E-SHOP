@@ -24,13 +24,13 @@ const Home = () => {
         <Row className="bg-light g-0">
           <Categories />
         </Row>
-        {/* {AllBradsData.map((cur, ind) => {
+        {AllBradsData.map((cur, ind) => {
           return (
             <Row key={ind}>
               <TopBrands data={cur} />
             </Row>
           );
-        })} */}
+        })}
       </Container>
     </>
   );

@@ -6,6 +6,7 @@
   font-weight: $weight;
   letter-spacing: $space;
   color: $color;
+  text-transform: uppercase;
 }
 
 @mixin title-style($h1, $p) {
@@ -26,7 +27,6 @@
   }
   p {
     @include font(2rem, 500, 2px, rgb(23, 189, 255));
-    text-transform: uppercase;
   }
 }
 

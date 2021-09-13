@@ -18,29 +18,33 @@ const ShowCards = ({ source }) => {
   }, []);
   return (
     <>
-      <Container className=" w-100">
-        <Row className="my-5">
-          <Col id="title_section">
+      <Container fluid>
+        <Row className="my-5 g-0">
+          <Col id="showcards_title">
             <h1> {title} </h1>
             <p>{subTitle}</p>
           </Col>
         </Row>
-        <Row>
+        <Row className="g-0">
           {products.map((cur) => {
             return (
               <Col
-                className="mx-auto d-flex justify-content-evenly"
+                id="cards_holder"
+                className="mx-auto"
                 sm={6}
                 md={4}
                 lg={2}
                 key={cur.id}
               >
                 <Card id="show_card">
-                  <Card.Img
-                    variant="top"
-                    src={cur.image}
-                    id="show_card_image"
-                  />
+                  <div id="card_image_waffer">
+                    <Card.Img
+                      variant="top"
+                      src={cur.image}
+                      id="show_card_image"
+                      className="mx-auto"
+                    />
+                  </div>
                   <Card.Body id="show_card_body">
                     <Card.Title className="card_title">{cur.title}</Card.Title>
                     <Card.Text className="card_text">{cur.about}</Card.Text>

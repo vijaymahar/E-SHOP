@@ -47,7 +47,7 @@ function Footer() {
               </div>
               <div className="col-md-6 item text">
                 <h3>Company Name</h3>
-                <p>
+                <p id="footer_font">
                   Praesent sed lobortis mi. Suspendisse vel placerat ligula.
                   Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam
                   quis tristique lectus. Aliquam in arcu eget velit pulvinar
@@ -72,7 +72,7 @@ function Footer() {
                 </a>
               </div>
             </div>
-            <p className="copyright text-center mt-5">
+            <p className="copyright text-center mt-5" id="footer_font">
               MeVik mart © 2021, all rights reserved to Mr. Vijay Mahar
             </p>
           </div>

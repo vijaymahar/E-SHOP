@@ -10,8 +10,8 @@ const Combos = () => {
         <Row>
           <img src={Banner} alt="combos_banner" />
         </Row>
-        <Row>
-          <Col>
+        <Row className="g-0">
+          <Col className="g-0">
             <ShowCards source={ComboData} />
           </Col>
         </Row>
