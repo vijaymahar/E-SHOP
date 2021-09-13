@@ -1,0 +1,128 @@
+@import "../fonts/fonts";
+//=========CHECK STYLE==========//
+@mixin check {
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+  outline: none;
+  &:focus {
+    outline: none;
+  }
+}
+
+@mixin check_font {
+  margin-left: 20px;
+  width: 100%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 16px;
+}
+//=========CHECK STYLE==========//
+
+// ===========SORT BY=============//
+#select_capsul {
+  position: relative;
+}
+
+select#sort_by {
+  padding: 2px 5px;
+  position: absolute;
+  top: 0%;
+  color: rgb(20, 20, 20);
+  &:focus {
+    outline: none;
+    box-shadow: 0px 0px 10px rgb(226, 226, 226);
+  }
+  option:hover {
+    background-color: yellow;
+  }
+}
+
+// ===========SORT BY=============//
+
+// ===========BRANDS============//
+.brand_types {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+}
+
+#brandList {
+  box-shadow: 0 5px 10px rgba(107, 107, 107, 0.2);
+
+  &:hover {
+    transform: scale(1.1);
+  }
+  label {
+    @include check_font();
+  }
+  input[type="checkbox"] {
+    @include check();
+  }
+}
+
+// ===========BRANDS============//
+
+// ==========LOAD MORE BTN===========//
+
+#loadMore_btn {
+  text-align: center;
+  margin: 0px 50px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+
+  &::first-letter {
+    color: red;
+  }
+}
+
+// ==========LOAD MORE BTN===========//
+
+// ==========CATEGORIES===========//
+
+#catrgory_label {
+  @include check_font();
+  margin: 12px 0px 0px 10px;
+}
+#category_check {
+  @include check();
+  border-radius: 50%;
+}
+// ==========CATEGORIES===========//
+
+// ==========Color===========//
+
+#catrgory_label #color_circle {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: seagreen;
+}
+
+// ==========Color===========//
+
+// ==========FILTER BUTTON========== //
+#filter_button {
+  background-color: transparent;
+  padding: 1px 10px 2px 10px;
+  margin: 0px 5px 5px 5px;
+  border-radius: 20px;
+  line-height: normal;
+  color: #333;
+  letter-spacing: 1px;
+  border: 1px solid rgb(68, 54, 57);
+  font-weight: 500;
+  text-transform: capitalize;
+  outline: none;
+  font-family: "Inter", sans-serif;
+}
+#filterbtn_delete {
+  color: red;
+  font-size: large;
+  margin-left: 2px;
+}
+// ==========FILTER BUTTON========== //

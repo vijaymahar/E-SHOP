@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Pacifico&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Pacifico&display=swap");
 #signup-btn {
   background-color: transparent;
   color: silver;
@@ -458,5 +459,125 @@ p {
   p {
     font-size: 0.7rem;
   }
+}
+
+#select_capsul {
+  position: relative;
+}
+
+select#sort_by {
+  padding: 2px 5px;
+  position: absolute;
+  top: 0%;
+  color: #141414;
+}
+
+select#sort_by:focus {
+  outline: none;
+  -webkit-box-shadow: 0px 0px 10px #e2e2e2;
+          box-shadow: 0px 0px 10px #e2e2e2;
+}
+
+select#sort_by option:hover {
+  background-color: yellow;
+}
+
+.brand_types {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+}
+
+#brandList {
+  -webkit-box-shadow: 0 5px 10px rgba(107, 107, 107, 0.2);
+          box-shadow: 0 5px 10px rgba(107, 107, 107, 0.2);
+}
+
+#brandList:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+#brandList label {
+  margin-left: 20px;
+  width: 100%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#brandList input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+  outline: none;
+}
+
+#brandList input[type="checkbox"]:focus {
+  outline: none;
+}
+
+#loadMore_btn {
+  text-align: center;
+  margin: 0px 50px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+#loadMore_btn::first-letter {
+  color: red;
+}
+
+#catrgory_label {
+  margin-left: 20px;
+  width: 100%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 16px;
+  margin: 12px 0px 0px 10px;
+}
+
+#category_check {
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+  outline: none;
+  border-radius: 50%;
+}
+
+#category_check:focus {
+  outline: none;
+}
+
+#catrgory_label #color_circle {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: seagreen;
+}
+
+#filter_button {
+  background-color: transparent;
+  padding: 1px 10px 2px 10px;
+  margin: 0px 5px 5px 5px;
+  border-radius: 20px;
+  line-height: normal;
+  color: #333;
+  letter-spacing: 1px;
+  border: 1px solid #443639;
+  font-weight: 500;
+  text-transform: capitalize;
+  outline: none;
+  font-family: "Inter", sans-serif;
+}
+
+#filterbtn_delete {
+  color: red;
+  font-size: large;
+  margin-left: 2px;
 }
 /*# sourceMappingURL=main.css.map */
