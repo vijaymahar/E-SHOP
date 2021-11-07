@@ -111,23 +111,23 @@ export const Brands = [
 export const Categories = [
   {
     id: 1,
-    type: "mens",
+    name: "mens",
   },
   {
     id: 2,
-    type: "womens",
+    name: "womens",
   },
   {
     id: 3,
-    type: "brands",
+    name: "brands",
   },
   {
     id: 4,
-    type: "budget",
+    name: "budget",
   },
   {
     id: 5,
-    type: "comfirt",
+    name: "comfirt",
   },
 ];
 
@@ -204,122 +204,122 @@ export const Price = [
 export const Discount = [
   {
     id: 1,
-    range: "10% and above",
+    name: "10% and above",
   },
   {
     id: 2,
-    range: "20% and above",
+    name: "20% and above",
   },
   {
     id: 3,
-    range: "30% and above",
+    name: "30% and above",
   },
   {
     id: 4,
-    range: "40% and above",
+    name: "40% and above",
   },
   {
     id: 5,
-    range: "50% and above",
+    name: "50% and above",
   },
   {
     id: 6,
-    range: "60% and above",
+    name: "60% and above",
   },
   {
     id: 7,
-    range: "70% and above",
+    name: "70% and above",
   },
   {
     id: 8,
-    range: "80% and above",
+    name: "80% and above",
   },
 ];
 
 export const Color = [
   {
     id: 1,
-    color: "blue",
+    name: "blue",
     code: "#002fff",
   },
   {
     id: 2,
-    color: "white",
+    name: "white",
     code: "#ffffff",
   },
   {
     id: 3,
-    color: "navy blue",
+    name: "navy blue",
     code: "#000080",
   },
   {
     id: 4,
-    color: "black",
+    name: "black",
     code: "#000000",
   },
   {
     id: 5,
-    color: "green",
+    name: "green",
     code: "#048b04",
   },
   {
     id: 6,
-    color: "red",
+    name: "red",
     code: "#ff0000",
   },
   {
     id: 7,
-    color: "pink",
+    name: "pink",
     code: "#ffc1cb",
   },
   {
     id: 8,
-    color: "beige",
+    name: "beige",
     code: "#f5f5dc",
   },
   {
     id: 9,
-    color: "brown",
-    name: "#a52a2a",
+    name: "brown",
+    code: "#a52a2a",
   },
   {
     id: 10,
-    color: "yellow",
+    name: "yellow",
     code: "#ffff00",
   },
   {
     id: 11,
-    color: "gold",
+    name: "gold",
     code: "#ffd900",
   },
   {
     id: 12,
-    color: "tan",
+    name: "tan",
     code: "#d2b48c",
   },
   {
     id: 13,
-    color: "lavender",
+    name: "lavender",
     code: "#e6e6fa",
   },
   {
     id: 14,
-    color: "multi color",
+    name: "multi name",
     code: "conic-gradient(#ff0000 0deg, #ffa702 90deg, #ffff00 180deg, #048b04 270deg, #002fff 360deg)",
   },
   {
     id: 15,
-    color: "steel",
+    name: "steel",
     code: "#a4a5a5",
   },
   {
     id: 16,
-    color: "orange",
+    name: "oname",
     code: "#ffa702",
   },
   {
     id: 17,
-    color: "off white",
+    name: "off white",
     code: "#9b9b9b",
   },
 ];

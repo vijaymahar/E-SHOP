@@ -10,7 +10,7 @@ const TopBrands = ({ data }) => {
     fetch(url)
       .then((res) => res.json())
       .then((response) => setProducts(response));
-    console.log(product);
+    // console.log(product);
   }, []);
   return (
     <>
@@ -22,7 +22,7 @@ const TopBrands = ({ data }) => {
           </Col>
         </Row>
         <Row className="d-flex justify-content-center">
-          {product.map((product) => {
+          {product.map((product, ind) => {
             return (
               <Col
                 id="category_images"
@@ -32,6 +32,7 @@ const TopBrands = ({ data }) => {
                 lg={3}
                 xl={2}
                 className="mx-auto"
+                key={ind}
               >
                 <img
                   src={product.image}

@@ -5,6 +5,7 @@
   height: 18px;
   margin-right: 5px;
   outline: none;
+
   &:focus {
     outline: none;
   }
@@ -22,6 +23,7 @@
 // ===========SORT BY=============//
 #select_capsul {
   position: relative;
+  transform: translateY(3px);
 }
 
 select#sort_by {
@@ -51,8 +53,8 @@ select#sort_by {
 }
 
 #brandList {
-  box-shadow: 0 5px 10px rgba(107, 107, 107, 0.2);
-
+  box-shadow: 0 5px 10px rgba(163, 163, 163, 0.2);
+  margin: 3px 0px;
   &:hover {
     transform: scale(1.1);
   }
@@ -100,7 +102,6 @@ select#sort_by {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background-color: seagreen;
 }
 
 // ==========Color===========//
@@ -108,10 +109,11 @@ select#sort_by {
 // ==========FILTER BUTTON========== //
 #filter_button {
   background-color: transparent;
-  padding: 1px 10px 2px 10px;
+  // padding: 1px 10px 2px 10px;
   margin: 0px 5px 5px 5px;
   border-radius: 20px;
   line-height: normal;
+  font-size: 12px;
   color: #333;
   letter-spacing: 1px;
   border: 1px solid rgb(68, 54, 57);
@@ -126,3 +128,27 @@ select#sort_by {
   margin-left: 2px;
 }
 // ==========FILTER BUTTON========== //
+
+// ==========REMOVE ALL FILTERS BUTTON========== //
+
+#removeAll {
+  position: relative;
+  background-color: transparent;
+  border: 1px solid rgb(146, 146, 146);
+  font-size: 13px;
+  padding: 0px 10px 0px 10px;
+  transform: translateX(35px);
+  text-transform: uppercase;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.5s ease;
+
+  &:hover {
+    color: rgb(20, 20, 20);
+    border: 2px double red;
+    outline: none;
+    color: red;
+  }
+}
+
+// ==========REMOVE ALL FILTERS BUTTON========== //

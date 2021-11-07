@@ -10,7 +10,8 @@
 }
 
 @mixin showCardStyle($width, $height, $name, $descript) {
-  #show_card {
+  #show_card,
+  #card_box {
     width: $width;
     height: $height;
     .card_title {
@@ -20,7 +21,8 @@
       font-size: $descript;
     }
   }
-  #card_image_waffer {
+  #card_image_waffer,
+  #card_waffer {
     width: $width;
     height: $width;
     overflow: hidden;
@@ -33,12 +35,14 @@
 
 //=======DESKTOP======== //
 
-#show_card {
+#show_card,
+#card_box {
   overflow: hidden;
   &:hover {
     box-shadow: 0px 0px 20px rgb(211, 211, 211);
   }
-  #show_card_body {
+  #show_card_body,
+  #card_body {
     overflow: hidden;
     text-align: center;
     .card_title {
@@ -52,7 +56,8 @@
     }
   }
 
-  &:hover #show_card_image {
+  &:hover #show_card_image,
+  #card_image {
     transform: scale(1.2);
     transition: all 0.5s ease-in-out;
   }
